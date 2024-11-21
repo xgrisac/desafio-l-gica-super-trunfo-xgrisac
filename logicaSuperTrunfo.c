@@ -26,6 +26,12 @@ int main() {
     // utilizando a função scanf para capturar as entradas.
     // utilize o código do primeiro desafio
 
+if ( populacaoA > populacaoB ) {
+        printf("Cidade 1 tem maior população.\n");
+    } else {
+        printf("Cidade 2 tem maior população.\n");
+    }
+    
     // Exemplo:
     // printf("Digite o código da cidade: ");
     // scanf("%s", codigo);
